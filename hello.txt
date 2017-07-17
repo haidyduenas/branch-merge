@@ -1,2 +1,5 @@
 Ejercicio guiado de branch
+<<<<<<< HEAD
 Modificacion en la rama master
+=======
+
